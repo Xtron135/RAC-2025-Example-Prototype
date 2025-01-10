@@ -17,7 +17,7 @@ The chassis and other mechanical parts consists of:
 
 ## Software
 
-This prototype is using Maker Uno as the main controller, using Arduino Language. We will note provide the full codes for the challenge (Well if I do it's not gonna be challenge anymore isn't it 🤣?.
+This prototype is using Maker Uno as the main controller, using Arduino Language. We will note provide the full codes for the challenge (Well if we give it all it's not gonna be challenge anymore isn't it 🤣?).
 We do provide couple of tester code for you to get started with all the necessary elements for the robot, such as:
 - Motor Driver
 - Ultrasonic
