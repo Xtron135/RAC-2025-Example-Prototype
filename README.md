@@ -1,7 +1,7 @@
 # RAC-2025-Example-Prototype
 
 This is an example Robot Prototype for RAC 2025 - CYBORC Category.
-This robot is designed to achieve full marks of the challenge.
+This robot is designed to achieve full marks of the challenge, using Arduino Uno as the microcontroller.
 
 
 ## Hardware
